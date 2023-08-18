@@ -1,0 +1,20 @@
+name: argo
+
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - xarray
+  - cartopy
+  - h5py
+  - jupyterlab
+  - netcdf4
+  - cmocean
+  - argopy
+  - urllib3
+  - shutil
+  - plotly
+
+#   - pip:
+#      - package_name
+#     - git+https://github.com/blaze/dask.git#egg=dask[complete]
